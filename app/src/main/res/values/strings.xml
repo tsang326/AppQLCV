@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppQLCV</string>
+    <string name="default_web_client_id">960804280818-tpae1rpre5h0athsdftmlmajdtu8ffpe.apps.googleusercontent.com</string>
+    <string name="channel_name">Channel 1</string>
+    <string name="channel_description">This Channel 1</string>
+    <string name="default_notification_channel_id">channel_id</string>
+
+
+
+
+</resources>
